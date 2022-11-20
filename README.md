@@ -12,10 +12,10 @@
 
 ##### Check out my works and achievements around the Web 🌎
 
-- Writing Technical & Non-Technical Blogs on <a href="https://jakearmijo.com/blog">My Blog Website</a> ✍📃📚💯
+- Writing Technical & Non-Technical Blogs on <a href='https://jakearmijo.com/blog' target='_blank'>My Blog Website</a> ✍📃📚💯
 
-- My most used social platform <a href="https://www.linkedin.com/in/jake-armijo">LinkedIn</a> 🏆✨⏱👨‍✈️
+- My most used social platform <a href='https://www.linkedin.com/in/jake-armijo' target='_blank'>LinkedIn</a> 🏆✨⏱👨‍✈️
 
-- Videos and things I make <a href="https://youtube.com/@jakearmijo">YouTube</a> 🎗️🎬🌺💬
+- Videos and things I make <a href='https://youtube.com/@jakearmijo' target='_blank'>YouTube</a> 🎗️🎬🌺💬
 
-- My Certs <a href="https://www.credly.com/users/jakearmijo">Credly</a>🚀🥇💼
+- My Certs <a href='https://www.credly.com/users/jakearmijo' target='_blank'>Credly</a>🚀🥇💼
