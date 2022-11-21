@@ -12,7 +12,7 @@
 
 #### Things I dabble with 🔥:
 
-#### JavaScript | Python | Node.js | React | Nextjs | Sequelize | Express | PostgreSQL | MongoDB | Redux | Terraform | AWS CDK | Docker | Kubernetes | FastAPI | RESTful APIs | HTML | CSS | Auth0 | Phaser | Github | Datadog | System Design | Data Structures & Algorithms
+#### JavaScript | Python | Node.js | AWS (2x Certified) | React | Nextjs | Sequelize | Express | PostgreSQL | MongoDB | Redux | Terraform | AWS CDK | Docker | Kubernetes | FastAPI | RESTful APIs | HTML | CSS | Auth0 | Phaser | Github | Datadog | System Design | Data Structures & Algorithms
 
 ##### Check out my works and achievements around the Web 🌎
 
