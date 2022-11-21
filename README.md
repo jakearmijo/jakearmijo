@@ -2,7 +2,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGXU0HQ5jhq_A/profile-displayphoto-shrink_400_400/0/1656886332160?e=1674691200&v=beta&t=tBaFVqdE-fEfSLkdOafSGYVQ4f1OVhLxkd6NInfXQoE" alt="Jake Selfie">
 
-<img src="https://s2.qwant.com/thumbr/0x380/7/d/f59d9ec2f94b00726616d8fb96883dbaa1e237011477663652952c49f832b7/a53560c8088900e266880f779dacced7.gif" alt="Jake Coding At Home">
+<img src="[https://s2.qwant.com/thumbr/0x380/7/d/f59d9ec2f94b00726616d8fb96883dbaa1e237011477663652952c49f832b7/a53560c8088900e266880f779dacced7.gif](https://s2.qwant.com/thumbr/0x380/7/d/f59d9ec2f94b00726616d8fb96883dbaa1e237011477663652952c49f832b7/a53560c8088900e266880f779dacced7.gif?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa5%2F35%2F60%2Fa53560c8088900e266880f779dacced7.gif&q=0&b=1&p=0&a=1)" alt="Jake Coding At Home">
 
 ## Full Stack Engineer | 2x AWS Certified | Gemini | Girl Dad | Ex-Hockey Player 
 
