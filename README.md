@@ -6,7 +6,9 @@
 
 ## Full Stack Engineer | 2x AWS Certified | Gemini | Girl Dad | Ex-Hockey Player 
 
-### I am a sociable creator with an adoration for a fast-paced and dynamic environment. As a kid, I frequently lived singing and playing with Legos. As an adult, I started building commercial buildings and now help build software solutions. I have a self-motivating mindset and love to learn new things. I am a versatile team player with a vivid imagination. I can be a great asset to any team with my outgoing personality and natural leadership. My off-hours creative activities include fly tying, djing, gaming, and family. I am always willing to chat. Feel free to message me! Career switcher 2020 - Girl Dad - Fly Fisher ✨
+<p align="center">
+  I am a sociable creator with an adoration for a fast-paced and dynamic environment. As a kid, I frequently lived singing and playing with Legos. As an adult, I started building commercial buildings and now help build software solutions. I have a self-motivating mindset and love to learn new things. I am a versatile team player with a vivid imagination. I can be a great asset to any team with my outgoing personality and natural leadership. My off-hours creative activities include fly tying, djing, gaming, and family. I am always willing to chat. Feel free to message me! Career switcher 2020 - Girl Dad - Fly Fisher ✨
+ </p>
 
 #### Things I dabble with 🔥:
 
