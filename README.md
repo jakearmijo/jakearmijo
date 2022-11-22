@@ -12,8 +12,9 @@
 
 #### Things I dabble with 🔥:
 <p align="center">
-JavaScript | Python | Node.js | AWS (2x Certified) | React | Nextjs | Sequelize | Express | PostgreSQL | MongoDB | Redux | Terraform | AWS CDK | Docker | Kubernetes | FastAPI | RESTful APIs | HTML | CSS | Auth0 | Phaser | Github | Datadog | System Design | Data Structures & Algorithms
+JavaScript | Python | Node.js | AWS (2x Certified) | React | Nextjs | Sequelize | Express | PostgreSQL | MongoDB | Redux | Terraform | AWS CDK | Docker | Kubernetes | FastAPI | RESTful APIs | HTML | CSS | Auth0 | Phaser | Github | Git | Datadog | System Design | Data Structures & Algorithms | Google Domains | Netlify | Mocha | Chai | Pytest | Webpack | Jira | Confluence
 </p>
+
 ##### Check out my works and achievements around the Web 🌎
 
 - Writing Technical & Non-Technical Blogs on <a href="https://jakearmijo.com/blog" target="_blank">My Blog Website</a> ✍📃📚💯
